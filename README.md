@@ -1,14 +1,17 @@
-<h1>#NLW eSports - Trilha Explorer</h1>
+# NLW eSports - Trilha Explorer
 
+![preview](./.github/preview.png)
 
 Projeto construído do evento Next Level Week da Rocketseat
 
+[🔗 Clique aqui para acessar.](https://xhndz.github.io/nlw-esports/)
 
-<h3>Tecnologias</h3>
-<p>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>Git e Github</li>
-</ul>
-</p>
+## - Tecnologias 
+
+- HTML
+- CSS
+- Git e Github
+
+## - Contato
+
+Email: ygor1008@gmail.com
