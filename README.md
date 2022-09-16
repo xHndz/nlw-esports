@@ -1,8 +1,11 @@
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar] ()
 
-Tecnologias
-HTML
-CSS
-Git e Github
+<h1>Tecnologias</h1>
+<p>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Git e Github</li>
+</ul>
+</p>
